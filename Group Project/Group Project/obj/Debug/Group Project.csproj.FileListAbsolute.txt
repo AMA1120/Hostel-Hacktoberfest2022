@@ -1,0 +1,24 @@
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\Group Project.exe.config
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\Group Project.exe
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\Group Project.pdb
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group Project.csproj.AssemblyReference.cache
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group Project.csproj.SuggestedBindingRedirects.cache
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Properties.Resources.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group Project.csproj.GenerateResource.cache
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group Project.csproj.CoreCompileInputs.cache
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group Project.exe
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group Project.pdb
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Home_Page.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Facilities.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Students.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Login.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.About__Us.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\empdata.mdf
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\empdata_log.ldf
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Employee.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Form4.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Student_Information.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\Database.mdf
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\bin\Debug\Database_log.ldf
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.Complain.resources
+E:\YEAR 01\SEMESTER 02 - YEAR 01\C#\Group project\Group Project\Group Project\obj\Debug\Group_Project.StudentComplain.resources

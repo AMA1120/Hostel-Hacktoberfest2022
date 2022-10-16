@@ -1,0 +1,22 @@
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\bin\Debug\Employee page.exe.config
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\bin\Debug\Employee page.exe
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\bin\Debug\Employee page.pdb
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee page.csproj.AssemblyReference.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee page.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee_page.Form1.resources
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee_page.Properties.Resources.resources
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee page.csproj.GenerateResource.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee page.csproj.CoreCompileInputs.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee page.exe
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\lab Workings\Employee page\obj\Debug\Employee page.pdb
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\bin\Debug\Employee page.exe.config
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\bin\Debug\Employee page.exe
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\bin\Debug\Employee page.pdb
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee page.csproj.AssemblyReference.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee page.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee_page.Form1.resources
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee_page.Properties.Resources.resources
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee page.csproj.GenerateResource.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee page.csproj.CoreCompileInputs.cache
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee page.exe
+C:\Users\AMA WEERASINGHE\Desktop\NSBM\1st YEAR (SEM 2)\C#\C# PROJECT\Employee page\obj\Debug\Employee page.pdb
